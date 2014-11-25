@@ -25,7 +25,6 @@ public class PlayerMain extends Activity {
         myWebView.getSettings().setAllowFileAccess(true);
         myWebView.getSettings().setAppCacheEnabled(true);*/
         
-        //myWebView.loadUrl("file:///android_asset/sewise-player/demos/div_100_percent.html");
         myWebView.loadUrl("http://jackzhang1204.github.io/sewise/sewise_player/demos/div_100_percent.html");
     }
     
